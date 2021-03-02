@@ -8,6 +8,7 @@ namespace MyProject3
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I've made a change!");
+            Console.WriteLine("This is the third change.");
         }
     }
 }
